@@ -19,7 +19,7 @@ int recur(int i) {
     return 0;
 }
 
-/* A statically allocarted, pre-initialized variable */
+/* A statically allocated, pre-initialized variable */
 int stuff = 7;
 
 int main(int argc, char *argv[]) {
